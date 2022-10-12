@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wingsocool</title>
+  
+  <subtitle>Wen&#39;s Blog</subtitle>
+  <link href="https://yangwen.press/atom.xml" rel="self"/>
+  
+  <link href="https://yangwen.press/"/>
+  <updated>2022-10-12T06:03:03.582Z</updated>
+  <id>https://yangwen.press/</id>
+  
+  <author>
+    <name>Wen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://yangwen.press/2022/10/12/hello-world/"/>
+    <id>https://yangwen.press/2022/10/12/hello-world/</id>
+    <published>2022-10-12T08:31:41.558Z</published>
+    <updated>2022-10-12T06:03:03.582Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><span id="more"></span><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><!--more-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>万里之行始于足下</title>
+    <link href="https://yangwen.press/2022/10/12/%E4%B8%87%E9%87%8C%E4%B9%8B%E8%A1%8C%E5%A7%8B%E4%BA%8E%E8%B6%B3%E4%B8%8B/"/>
+    <id>https://yangwen.press/2022/10/12/%E4%B8%87%E9%87%8C%E4%B9%8B%E8%A1%8C%E5%A7%8B%E4%BA%8E%E8%B6%B3%E4%B8%8B/</id>
+    <published>2022-10-12T07:09:59.000Z</published>
+    <updated>2022-10-12T07:11:15.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>Blog 搭建远比想象中简单，但是配置是个麻烦事。</p><p>嗐，跟装修一样。</p><p>万里之行始于足下。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Blog 搭建远比想象中简单，但是配置是个麻烦事。&lt;/p&gt;
+&lt;p&gt;嗐，跟装修一样。&lt;/p&gt;
+&lt;p&gt;万里之行始于足下。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Daily Life" scheme="https://yangwen.press/tags/Daily-Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First step. First try.</title>
+    <link href="https://yangwen.press/2022/10/12/2022-10-12-blog/"/>
+    <id>https://yangwen.press/2022/10/12/2022-10-12-blog/</id>
+    <published>2022-10-12T07:07:43.000Z</published>
+    <updated>2022-10-12T07:12:53.531Z</updated>
+    
+    <content type="html"><![CDATA[<p>配置好之后的第一次尝试。</p><p>所以，</p><p>Hello world！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;配置好之后的第一次尝试。&lt;/p&gt;
+&lt;p&gt;所以，&lt;/p&gt;
+&lt;p&gt;Hello world！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Daily Life" scheme="https://yangwen.press/tags/Daily-Life/"/>
+    
+  </entry>
+  
+</feed>
