@@ -25,7 +25,7 @@
     --card-bg-color: #555;
     --text-color: #ccc;
     --blockquote-color: #bbb;
-    --link-color: #ccc;
+    --link-color: #846868;
     --link-hover-color: #eee;
     --brand-color: #ddd;
     --brand-hover-color: #ddd;
@@ -1196,7 +1196,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffbdff;
+  background: #ff4737;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
