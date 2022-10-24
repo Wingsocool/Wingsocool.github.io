@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wen&#39;s Blog</title>
+  <title>光明在前</title>
   
-  <subtitle>实事求是，不尚空谈</subtitle>
+  <subtitle>Wing&#39;s Blog</subtitle>
   <link href="https://wingsocool.github.io/atom.xml" rel="self"/>
   
   <link href="https://wingsocool.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://wingsocool.github.io/</id>
   
   <author>
-    <name>Wen</name>
+    <name>停云</name>
     
   </author>
   
