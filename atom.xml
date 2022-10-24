@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wingsocool</title>
+  <title>Wen&#39;s Blog</title>
   
-  <subtitle>Wen&#39;s Blog</subtitle>
+  <subtitle>实事求是，不尚空谈</subtitle>
   <link href="https://wingsocool.github.io/atom.xml" rel="self"/>
   
   <link href="https://wingsocool.github.io/"/>
