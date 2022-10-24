@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wingsocool.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/categories/index.html</loc>
     
     <lastmod>2022-10-24</lastmod>
@@ -91,15 +100,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://wingsocool.github.io/tags/index.html</loc>
-    
-    <lastmod>2021-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://wingsocool.github.io/</loc>
@@ -108,20 +108,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Habits/</loc>
@@ -138,6 +124,20 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,14 +147,14 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
+    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
+    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
