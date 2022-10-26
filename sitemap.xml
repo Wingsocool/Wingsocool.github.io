@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wingsocool.github.io/about/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/2022/10/26/%E9%97%A8%E7%A5%A8/</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/2022/10/12/sample-text/</loc>
-    
-    <lastmod>2022-10-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/about/index.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -101,14 +101,14 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Tools/</loc>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
+    <loc>https://wingsocool.github.io/tags/Tools/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -138,14 +138,14 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
+    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
