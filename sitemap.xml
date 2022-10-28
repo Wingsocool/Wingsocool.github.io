@@ -110,21 +110,21 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/tags/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
+    <lastmod>2022-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Skills/</loc>
+    <lastmod>2022-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,31 +144,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://wingsocool.github.io/tags/Skills/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/cate/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <lastmod>2022-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

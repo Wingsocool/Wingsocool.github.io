@@ -13,14 +13,16 @@
       
       <categories>
           
-          <category> cate </category>
+          <category> Help Docs </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> tags </tag>
+            <tag> Tools </tag>
+            
+            <tag> Skills </tag>
             
         </tags>
       
@@ -70,9 +72,9 @@
       
         <tags>
             
-            <tag> Habits </tag>
-            
             <tag> Skills </tag>
+            
+            <tag> Habits </tag>
             
         </tags>
       
