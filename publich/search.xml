@@ -4,34 +4,9 @@
   
     
     <entry>
-      <title>暂时关闭评论</title>
-      <link href="/2022/10/28/%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E8%AF%84%E8%AE%BA/"/>
-      <url>/2022/10/28/%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E8%AF%84%E8%AE%BA/</url>
-      
-        <content type="html"><![CDATA[<p>评论系统服务器连接出了一点问题，尝试了现有的解决方法暂时没法解决，所以暂时关闭评论。等过阵子有时间了会来重新解决的。</p><p>特此。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Help Docs </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Ravings </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>能用的数据库资源</title>
-      <link href="/2022/10/27/%E8%83%BD%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%B5%84%E6%BA%90/"/>
-      <url>/2022/10/27/%E8%83%BD%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%B5%84%E6%BA%90/</url>
+      <link href="/2022/10/27/2022-10-2022-10-%E8%83%BD%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%B5%84%E6%BA%90/"/>
+      <url>/2022/10/27/2022-10-2022-10-%E8%83%BD%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%B5%84%E6%BA%90/</url>
       
         <content type="html"><![CDATA[<p>&emsp;&emsp;最近使用中发现好些数据库资源虽然还挂在存续名单上但是授权到期或者域名已经挂掉了。在这里整理一下还能访问的名单。万一用得上呢。完全用不上的我都不测评了就。</p><span id="more"></span><p>&emsp;&emsp;访问前提都得挂校内VPN啊。</p><!-- toc --><ul><li><a href="#1-%E6%9C%89%E7%94%A8">1. 有用</a></li><li><a href="#2-%E5%8F%AF%E8%83%BD%E6%9C%89%E7%94%A8">2. 可能有用</a></li></ul><!-- tocstop --><h1><span id="1-有用">1. 有用</span></h1><ul><li>超星电子图书  <a href="www.sslibrary.com" title="超星电子图书">www.sslibrary.com</a></li></ul><p>能正常在线及下载阅读</p><ul><li>国家科技图书文献中心中文学位论文  <a href="https://www.nstl.gov.cn/">https://www.nstl.gov.cn/</a></li></ul><p>能付费下载（没理解到这个数据库的优越性……）</p><ul><li>人民数据网络版分库（除舆情信息库外）  <a href="http://data.people.com.cn/publish/_s1/0819.html" title="人民数据网络版分库（除舆情信息库外）">http://data.people.com.cn/publish/_s1/0819.html</a></li></ul><p>能访问公开文件党政时政数据库和官媒报纸</p><ul><li>北大法意在线法律数据库（教育频道）  <a href="http://www.lawyee.org/default.html" title="北大法意在线法律数据库（教育频道）">http://www.lawyee.org/default.html</a></li></ul><p>法规案例，文书范本，专业书，能阅读能下载</p><ul><li>爱墨瑞德管理库  <a href="https://www.emerald.com/insight/" title="爱墨瑞德管理库">https://www.emerald.com/insight/</a></li></ul><p>Journals, Books &amp; Case Studies. 可看可下载</p><ul><li>Wiley在线期刊合集  <a href="https://olabout.wiley.com/WileyCDA/Section/id-829949.html" title="Wiley在线期刊合集">https://olabout.wiley.com/WileyCDA/Section/id-829949.html</a></li></ul><p>可看可下载</p><ul><li>SpecialSciDBS(国道特色专题数据库)  <a href="https://www.specialsci.cn/" title="SpecialSciDBS(国道特色专题数据库)">https://www.specialsci.cn/</a></li></ul><p>可看可下载</p><ul><li>知网硕博学位论文  <a href="https://epub.cnki.net/KNS/brief/result.aspx?dbprefix=CDFD" title="知网硕博学位论文">https://epub.cnki.net/KNS/brief/result.aspx?dbprefix=CDFD</a></li></ul><p>可看可下载</p><ul><li>万方学位论文  <a href="https://www.wanfangdata.com.cn/degree/toIndex.do" title="万方学位论文">https://www.wanfangdata.com.cn/degree/toIndex.do</a> </li></ul><p>可看可下载</p><ul><li>万方库  <a href="https://www.wanfangdata.com.cn/" title="万方库">https://www.wanfangdata.com.cn/</a></li></ul><p>可看可下载</p><ul><li>知网  <a href="www.cnki.net:" title="知网">www.cnki.net:</a></li></ul><p>可看可下载</p><ul><li>Web of Science  <a href="https://www.webofscience.com/wos/alldb/basic-search" title="WofS">https://www.webofscience.com/wos/alldb/basic-search</a></li></ul><p>累了没测，反正能访问</p><ul><li>CSSCI  <a href="http://cssci.nju.edu.cn/" title="CSSCI">http://cssci.nju.edu.cn/</a></li></ul><p>登陆没问题，好多都看不到，反正目前我戳进去的文章百分百没原文，有个有摘要的还是在百度文库链接出来的。啥玩意儿。</p><ul><li>维普  <a href="http://csi.cqvip.com/" title="维普">http://csi.cqvip.com/</a></li></ul><p>诶，考试资源系统也是可以用的,做小题用的</p><ul><li>中科UMajor大学专业课学习资源 <a href="http://www.umajor.org/" title="中科UMajor大学专业课学习资源">http://www.umajor.org/</a></li></ul><p>这个更像个自学中心，有视频有套题，讲得怎么样就不知道了。</p><ul><li>MeTel  <a href="http://www.metel.cn/" title="MeTel">http://www.metel.cn/</a></li></ul><p>视频网课平台，补充学校教学内容的，感觉都是外文课程。</p><ul><li>随书光盘数据库  <a href="http://www.bj.cxstar.cn/bookx/bookx/index1/index.do" title="随书光盘">http://www.bj.cxstar.cn/bookx/bookx/index1/index.do</a></li></ul><p>能下能用</p><ul><li>尚唯产品样本数据库  <a href="http://gpd.sunwayinfo.com.cn/" title="尚唯产品样本数据库">http://gpd.sunwayinfo.com.cn/</a></li></ul><p>查点工业上的专利标准图纸模型啥的能用</p><ul><li>超星云舟  <a href="yz.chaoxing.com" title="超星云舟">yz.chaoxing.com</a></li></ul><p>用机构账号登陆，有云盘有查重渠道</p><ul><li>NoteExpress 下载链接<br><a href="https://nedownload.inoteexpress.com/support/noncgi/downloads/NoteExpress_Vol_SXXBNLKJDX_3.7.0.9258_zh.exe">https://nedownload.inoteexpress.com/support/noncgi/downloads/NoteExpress_Vol_SXXBNLKJDX_3.7.0.9258_zh.exe</a></li></ul><p>v3.7.0.9258汉化版</p><ul><li>可知专业正版书平台  <a href="https://www.keledge.com/wrap/index" title="可知平台">https://www.keledge.com/wrap/index</a></li></ul><p>可以扫到手机上看，资源不多但是。</p><ul><li>编程学习平台  <a href="http://xgk.gxsentu.net/" title="编程学习平台">http://xgk.gxsentu.net/</a></li></ul><p>Java, Linux, MySQL, Python, 流程控制与运算符，数据表，PHP, iOS, ASP.NET, C/C#, HTMLS等学习课程及题库</p><hr><h1><span id="2-可能有用">2. 可能有用</span></h1><ul><li>Springer  <a href="https://link.springer.com/" title="Springer">https://link.springer.com/</a></li></ul><p>能在线阅读</p><ul><li>Nature  <a href="https://www.nature.com/" title="Nature">https://www.nature.com/</a></li></ul><p>可看可下载</p><ul><li>Elsevier Science  <a href="https://www.sciencedirect.com/" title="Elsevier Science">https://www.sciencedirect.com/</a></li></ul><p>可看可下载</p><ul><li>Cell  <a href="https://www.cell.com/" title="Cell Press">https://www.cell.com/</a></li></ul><p>可看可下载</p><ul><li>Science  <a href="https://www.science.org/" title="Science">https://www.science.org/</a></li></ul><p>可看可下载</p><ul><li>ACS  <a href="https://pubs.acs.org/" title="ACS">https://pubs.acs.org/</a></li></ul><p>可看可下载</p>]]></content>
       
@@ -57,10 +32,10 @@
     
     <entry>
       <title>进门票总比出门票难拿</title>
-      <link href="/2022/10/26/%E9%97%A8%E7%A5%A8/"/>
-      <url>/2022/10/26/%E9%97%A8%E7%A5%A8/</url>
+      <link href="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/"/>
+      <url>/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/</url>
       
-        <content type="html"><![CDATA[<p>&emsp;&emsp;今天心血来潮，搜了一下目标院校的毕业生学位论文。嗐。</p><span id="more"></span><p>&emsp;&emsp;想到了毕业简单，没想到毕业这么简单……这是什么工作量啊简直了=-=真就一年写一篇综述啊……</p><p>&emsp;&emsp;而且看看各个学校这个专业发的论文才发现，这个专业真的是个万金油专业啊。什么课题的都有做，不乏一些让人直呼什么玩意儿的东西=-=</p><p>&emsp;&emsp;槽点太多无处下口，小小贴一点供诸君一乐。非连续截图，请对每张图内容分别理解。</p><p><img src="/2022/10/26/%E9%97%A8%E7%A5%A8/1.jpg" alt="1"></p><p><img src="/2022/10/26/%E9%97%A8%E7%A5%A8/2.jpg" alt="2"></p><p><img src="/2022/10/26/%E9%97%A8%E7%A5%A8/3.png" alt="3"></p><p><img src="/2022/10/26/%E9%97%A8%E7%A5%A8/4.png" alt="4"></p>]]></content>
+        <content type="html"><![CDATA[<p>&emsp;&emsp;今天心血来潮，搜了一下目标院校的毕业生学位论文。嗐。</p><span id="more"></span><p>&emsp;&emsp;想到了毕业简单，没想到毕业这么简单……这是什么工作量啊简直了=-=真就一年写一篇综述啊……</p><p>&emsp;&emsp;而且看看各个学校这个专业发的论文才发现，这个专业真的是个万金油专业啊。什么课题的都有做，不乏一些让人直呼什么玩意儿的东西=-=</p><p>&emsp;&emsp;槽点太多无处下口，小小贴一点供诸君一乐。非连续截图，请对每张图内容分别理解。</p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/1.jpg" alt="1"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/2.jpg" alt="2"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/3.png" alt="3"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/4.png" alt="4"></p>]]></content>
       
       
       <categories>
@@ -97,9 +72,9 @@
       
         <tags>
             
-            <tag> Skills </tag>
-            
             <tag> Habits </tag>
+            
+            <tag> Skills </tag>
             
         </tags>
       
