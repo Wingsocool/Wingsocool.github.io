@@ -22,7 +22,7 @@
             
             <tag> Tools </tag>
             
-            <tag> Skills </tag>
+            <tag> Academic Skills </tag>
             
         </tags>
       
@@ -49,6 +49,8 @@
             
             <tag> Ravings </tag>
             
+            <tag> Life </tag>
+            
         </tags>
       
     </entry>
@@ -74,7 +76,7 @@
             
             <tag> Habits </tag>
             
-            <tag> Skills </tag>
+            <tag> Life </tag>
             
         </tags>
       
@@ -100,6 +102,8 @@
         <tags>
             
             <tag> Tools </tag>
+            
+            <tag> Markdown </tag>
             
         </tags>
       
@@ -179,6 +183,8 @@
         <tags>
             
             <tag> Tools </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
