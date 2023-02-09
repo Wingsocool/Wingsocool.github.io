@@ -190,13 +190,6 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
-    <lastmod>2023-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Habits/</loc>
     <lastmod>2023-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,6 +198,13 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/Life/</loc>
+    <lastmod>2023-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
     <lastmod>2023-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -227,6 +227,13 @@
 
   
   <url>
+    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
+    <lastmod>2023-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
     <lastmod>2023-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,13 +242,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
-    <lastmod>2023-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2023-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
