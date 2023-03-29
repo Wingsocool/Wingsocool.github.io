@@ -4,9 +4,61 @@
   
     
     <entry>
+      <title>太阳底下没有新鲜事</title>
+      <link href="/2023/03/29/2023-03-2023-03-%E5%A4%AA%E9%98%B3%E5%BA%95%E4%B8%8B%E6%B2%A1%E6%9C%89%E6%96%B0%E9%B2%9C%E4%BA%8B/"/>
+      <url>/2023/03/29/2023-03-2023-03-%E5%A4%AA%E9%98%B3%E5%BA%95%E4%B8%8B%E6%B2%A1%E6%9C%89%E6%96%B0%E9%B2%9C%E4%BA%8B/</url>
+      
+        <content type="html"><![CDATA[<p>&emsp;&emsp;翻到了一张老报纸。真是太阳底下没有新鲜事。</p><span id="more"></span><p><img src="/2023/03/29/2023-03-2023-03-%E5%A4%AA%E9%98%B3%E5%BA%95%E4%B8%8B%E6%B2%A1%E6%9C%89%E6%96%B0%E9%B2%9C%E4%BA%8B/1.jpg" alt="1"></p><p>&emsp;&emsp;去他妈的“脱不掉的孔乙己的长衫”。</p><p>&emsp;&emsp;哦对了，这是1999年5月8日的报纸。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fragments of Thoughts </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ravings </tag>
+            
+            <tag> Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>世界上只有一种病</title>
+      <link href="/2023/03/29/2023-03-2023-03-%E4%B8%96%E7%95%8C%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E7%A7%8D%E7%97%85/"/>
+      <url>/2023/03/29/2023-03-2023-03-%E4%B8%96%E7%95%8C%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E7%A7%8D%E7%97%85/</url>
+      
+        <content type="html"><![CDATA[<p>&emsp;&emsp;他们努力工作，努力生活，日复一日。他们真的以为“八小时工作制”指的是把必要吃饭时间刨开计算的时间，他们真的以为下班时间的会议不算加班，他们甚至真的以为如厕时间的设置都是合理的。</p><p>&emsp;&emsp;他们以为他们在正常工作，他们以为他们有正常生活。</p><span id="more"></span><blockquote><p>如果形式法治可以通过这么卑劣的简单手段破坏，那么立法尊严何在？</p></blockquote><p>&emsp;&emsp;</p><blockquote><p>午休时间又是对法律的嘲笑与践踏。</p></blockquote><p><strong>&emsp;&emsp;如果世界上只有一种病，不当是穷病，应当是资本。</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fragments of Thoughts </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ravings </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>不完全总结一下ChatGPT的访问渠道</title>
-      <link href="/2023/02/09/%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/"/>
-      <url>/2023/02/09/%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/</url>
+      <link href="/2023/02/09/2023-02-2023-02-%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/"/>
+      <url>/2023/02/09/2023-02-2023-02-%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/</url>
       
         <content type="html"><![CDATA[<p>不完全总结一下目前测试可以正常访问ChatGPT的渠道方式。</p><span id="more"></span><p>使用魔法访问</p><ul><li><p>在使用魔法直接使用ChatGPT的话，注册流程主要分为 4 步：</p></li><li><p>国外网络环境准备；</p></li><li><p>注册 ChatGPT 账号并完成邮箱验证；</p></li><li><p>通过 sms-activate.org （短信接码平台）接收手机验证码完成验证；</p></li><li><p>邮箱登录，开始使用 ChatGPT</p></li></ul><p>国产镜像直接访问</p><ul><li><a href="http://chat.h2ai.cn/home">http://chat.h2ai.cn/home</a></li><li>微信小程序“moss小苔藓”</li></ul><p>还有一个讨巧的办法，可以在obsibian里安装Text Generator插件也可以调用OpenAI。</p>]]></content>
       
@@ -30,8 +82,8 @@
     
     <entry>
       <title>2023年2月的零散心得</title>
-      <link href="/2023/02/09/2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/"/>
-      <url>/2023/02/09/2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/</url>
+      <link href="/2023/02/09/2023-02-2023-02-2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/"/>
+      <url>/2023/02/09/2023-02-2023-02-2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/</url>
       
         <content type="html"><![CDATA[<p>发现好多时候想法和需要记录的东西都是些零碎文字，所以从这个月起尝试建立个零散心得合辑文章。如果积累发现有什么能之后整理长内容的那我再整理下来。</p><span id="more"></span><p>果然有用！建立文档时候写的内容现在已经整理成单独文章了。目前继续用这个占位，有新的想法再更新。</p>]]></content>
       
@@ -45,9 +97,9 @@
       
         <tags>
             
-            <tag> Tools </tag>
-            
             <tag> Ravings </tag>
+            
+            <tag> Tools </tag>
             
             <tag> Meaningless </tag>
             
@@ -101,9 +153,9 @@
       
         <tags>
             
-            <tag> Life </tag>
-            
             <tag> Habits </tag>
+            
+            <tag> Life </tag>
             
         </tags>
       
@@ -207,9 +259,9 @@
       
         <tags>
             
-            <tag> Life </tag>
-            
             <tag> Habits </tag>
+            
+            <tag> Life </tag>
             
         </tags>
       
