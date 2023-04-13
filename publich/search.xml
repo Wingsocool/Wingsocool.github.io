@@ -15,8 +15,6 @@
           
           <category> Fragments of Thoughts </category>
           
-          <category> Learning Notes </category>
-          
       </categories>
       
       
@@ -25,6 +23,8 @@
             <tag> Academic Skills </tag>
             
             <tag> Habits </tag>
+            
+            <tag> Study Notes </tag>
             
         </tags>
       
@@ -128,9 +128,9 @@
       
         <tags>
             
-            <tag> Ravings </tag>
-            
             <tag> Tools </tag>
+            
+            <tag> Ravings </tag>
             
             <tag> Meaningless </tag>
             
@@ -152,12 +152,12 @@
           
           <category> Repost </category>
           
-          <category> Learning Notes </category>
-          
       </categories>
       
       
         <tags>
+            
+            <tag> Study Notes </tag>
             
             <tag> CPC News </tag>
             
@@ -236,9 +236,9 @@
       
         <tags>
             
-            <tag> Tools </tag>
-            
             <tag> Academic Skills </tag>
+            
+            <tag> Tools </tag>
             
         </tags>
       
