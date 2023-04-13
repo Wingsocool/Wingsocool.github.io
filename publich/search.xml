@@ -74,6 +74,8 @@
             
             <tag> Tools </tag>
             
+            <tag> Expired </tag>
+            
         </tags>
       
     </entry>
@@ -97,9 +99,9 @@
       
         <tags>
             
-            <tag> Ravings </tag>
-            
             <tag> Tools </tag>
+            
+            <tag> Ravings </tag>
             
             <tag> Meaningless </tag>
             
@@ -121,12 +123,12 @@
           
           <category> Repost </category>
           
+          <category> Study Notes </category>
+          
       </categories>
       
       
         <tags>
-            
-            <tag> Learning Records </tag>
             
             <tag> CPC News </tag>
             
