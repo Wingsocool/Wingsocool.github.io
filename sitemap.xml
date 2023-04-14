@@ -191,6 +191,13 @@
 
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,21 +219,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2023-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
-    <lastmod>2023-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Markdown/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Life/</loc>
+    <loc>https://wingsocool.github.io/tags/Markdown/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -248,6 +241,13 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Life/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
