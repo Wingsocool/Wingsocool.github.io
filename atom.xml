@@ -87,54 +87,6 @@
   </entry>
   
   <entry>
-    <title>不完全总结一下ChatGPT的访问渠道</title>
-    <link href="https://wingsocool.github.io/2023/02/09/2023-02-2023-02-%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/"/>
-    <id>https://wingsocool.github.io/2023/02/09/2023-02-2023-02-%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BChatGPT%E7%9A%84%E8%AE%BF%E9%97%AE%E6%B8%A0%E9%81%93/</id>
-    <published>2023-02-09T11:27:07.000Z</published>
-    <updated>2023-04-13T08:21:23.788Z</updated>
-    
-    <content type="html"><![CDATA[<p>不完全总结一下目前测试可以正常访问ChatGPT的渠道方式。</p><span id="more"></span><p>使用魔法访问</p><ul><li><p>在使用魔法直接使用ChatGPT的话，注册流程主要分为 4 步：</p></li><li><p>国外网络环境准备；</p></li><li><p>注册 ChatGPT 账号并完成邮箱验证；</p></li><li><p>通过 sms-activate.org （短信接码平台）接收手机验证码完成验证；</p></li><li><p>邮箱登录，开始使用 ChatGPT</p></li></ul><p>国产镜像直接访问</p><ul><li><a href="http://chat.h2ai.cn/home">http://chat.h2ai.cn/home</a></li><li>微信小程序“moss小苔藓”</li></ul><p>还有一个讨巧的办法，可以在obsibian里安装Text Generator插件也可以调用OpenAI。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;不完全总结一下目前测试可以正常访问ChatGPT的渠道方式。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Help Docs" scheme="https://wingsocool.github.io/categories/Help-Docs/"/>
-    
-    
-    <category term="Tools" scheme="https://wingsocool.github.io/tags/Tools/"/>
-    
-    <category term="Expired" scheme="https://wingsocool.github.io/tags/Expired/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2023年2月的零散心得</title>
-    <link href="https://wingsocool.github.io/2023/02/09/2023-02-2023-02-2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/"/>
-    <id>https://wingsocool.github.io/2023/02/09/2023-02-2023-02-2023%E5%B9%B42%E6%9C%88%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%BF%83%E5%BE%97/</id>
-    <published>2023-02-09T09:27:55.000Z</published>
-    <updated>2023-02-09T11:32:46.539Z</updated>
-    
-    <content type="html"><![CDATA[<p>发现好多时候想法和需要记录的东西都是些零碎文字，所以从这个月起尝试建立个零散心得合辑文章。如果积累发现有什么能之后整理长内容的那我再整理下来。</p><span id="more"></span><p>果然有用！建立文档时候写的内容现在已经整理成单独文章了。目前继续用这个占位，有新的想法再更新。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;发现好多时候想法和需要记录的东西都是些零碎文字，所以从这个月起尝试建立个零散心得合辑文章。如果积累发现有什么能之后整理长内容的那我再整理下来。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Daily Life" scheme="https://wingsocool.github.io/categories/Daily-Life/"/>
-    
-    
-    <category term="Ravings" scheme="https://wingsocool.github.io/tags/Ravings/"/>
-    
-    <category term="Tools" scheme="https://wingsocool.github.io/tags/Tools/"/>
-    
-    <category term="Meaningless" scheme="https://wingsocool.github.io/tags/Meaningless/"/>
-    
-  </entry>
-  
-  <entry>
     <title>关于赫鲁晓夫的假共产主义及其在世界历史上的教训――九评苏共中央的公开信</title>
     <link href="https://wingsocool.github.io/2023/01/16/2023-01-2023-01-%E4%B9%9D%E8%AF%84%E8%8B%8F%E5%85%B1/"/>
     <id>https://wingsocool.github.io/2023/01/16/2023-01-2023-01-%E4%B9%9D%E8%AF%84%E8%8B%8F%E5%85%B1/</id>
@@ -222,29 +174,6 @@
     <category term="Academic Skills" scheme="https://wingsocool.github.io/tags/Academic-Skills/"/>
     
     <category term="Tools" scheme="https://wingsocool.github.io/tags/Tools/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>进门票总比出门票难拿</title>
-    <link href="https://wingsocool.github.io/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/"/>
-    <id>https://wingsocool.github.io/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/</id>
-    <published>2022-10-26T10:34:43.000Z</published>
-    <updated>2022-11-04T05:29:22.068Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;今天心血来潮，搜了一下目标院校的毕业生学位论文。嗐。</p><span id="more"></span><p>&emsp;&emsp;想到了毕业简单，没想到毕业这么简单……这是什么工作量啊简直了=-=真就一年写一篇综述啊……</p><p>&emsp;&emsp;而且看看各个学校这个专业发的论文才发现，这个专业真的是个万金油专业啊。什么课题的都有做，不乏一些让人直呼什么玩意儿的东西=-=</p><p>&emsp;&emsp;槽点太多无处下口，小小贴一点供诸君一乐。非连续截图，请对每张图内容分别理解。</p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/1.jpg" alt="1"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/2.jpg" alt="2"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/3.png" alt="3"></p><p><img src="/2022/10/26/2022-10-2022-10-%E9%97%A8%E7%A5%A8/4.png" alt="4"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今天心血来潮，搜了一下目标院校的毕业生学位论文。嗐。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Daily Life" scheme="https://wingsocool.github.io/categories/Daily-Life/"/>
-    
-    
-    <category term="Ravings" scheme="https://wingsocool.github.io/tags/Ravings/"/>
-    
-    <category term="Life" scheme="https://wingsocool.github.io/tags/Life/"/>
     
   </entry>
   
