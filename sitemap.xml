@@ -171,6 +171,20 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Tools/</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,20 +200,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/Study-Notes/</loc>
-    <lastmod>2023-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Tools/</loc>
-    <lastmod>2023-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
