@@ -6,7 +6,7 @@
   <link href="https://wingsocool.github.io/atom.xml" rel="self"/>
   
   <link href="https://wingsocool.github.io/"/>
-  <updated>2023-12-30T09:12:33.282Z</updated>
+  <updated>2023-12-30T09:12:33.283Z</updated>
   <id>https://wingsocool.github.io/</id>
   
   <author>
@@ -15,23 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>伴奏存档</title>
-    <link href="https://wingsocool.github.io/posts/edfe451d/"/>
-    <id>https://wingsocool.github.io/posts/edfe451d/</id>
-    <published>2023-12-30T06:57:58.000Z</published>
-    <updated>2023-12-30T09:12:33.282Z</updated>
-    
-    
-    
-    
-    <category term="cate" scheme="https://wingsocool.github.io/categories/cate/"/>
-    
-    
-    <category term="tags" scheme="https://wingsocool.github.io/tags/tags/"/>
-    
-  </entry>
   
   <entry>
     <title>声乐存档</title>
@@ -55,15 +38,21 @@
     <link href="https://wingsocool.github.io/posts/56569121/"/>
     <id>https://wingsocool.github.io/posts/56569121/</id>
     <published>2023-12-30T06:57:41.000Z</published>
-    <updated>2023-12-30T09:12:33.283Z</updated>
+    <updated>2023-12-30T09:35:42.970Z</updated>
+    
+    <content type="html"><![CDATA[<p>视唱练耳资料存档。  </p><span id="more"></span>  <!--toc-->  <p>##一、练习题##</p><p><img src="/posts/56569121/1.png" alt="1"></p><p><img src="/posts/56569121/2.png" alt="2"></p><p><img src="/posts/56569121/3.png" alt="3"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;视唱练耳资料存档。  &lt;/p&gt;</summary>
     
     
     
+    <category term="Backup" scheme="https://wingsocool.github.io/categories/Backup/"/>
     
-    <category term="cate" scheme="https://wingsocool.github.io/categories/cate/"/>
     
+    <category term="Academic Skills" scheme="https://wingsocool.github.io/tags/Academic-Skills/"/>
     
-    <category term="tags" scheme="https://wingsocool.github.io/tags/tags/"/>
+    <category term="Study Notes" scheme="https://wingsocool.github.io/tags/Study-Notes/"/>
     
   </entry>
   
@@ -128,11 +117,11 @@
     <category term="Fragments of Thoughts" scheme="https://wingsocool.github.io/categories/Fragments-of-Thoughts/"/>
     
     
-    <category term="Habits" scheme="https://wingsocool.github.io/tags/Habits/"/>
-    
     <category term="Academic Skills" scheme="https://wingsocool.github.io/tags/Academic-Skills/"/>
     
     <category term="Study Notes" scheme="https://wingsocool.github.io/tags/Study-Notes/"/>
+    
+    <category term="Habits" scheme="https://wingsocool.github.io/tags/Habits/"/>
     
   </entry>
   
@@ -242,9 +231,9 @@
     <category term="Help Docs" scheme="https://wingsocool.github.io/categories/Help-Docs/"/>
     
     
-    <category term="Tools" scheme="https://wingsocool.github.io/tags/Tools/"/>
-    
     <category term="Academic Skills" scheme="https://wingsocool.github.io/tags/Academic-Skills/"/>
+    
+    <category term="Tools" scheme="https://wingsocool.github.io/tags/Tools/"/>
     
   </entry>
   

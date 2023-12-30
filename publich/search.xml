@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>伴奏存档</title>
-      <link href="/posts/edfe451d/"/>
-      <url>/posts/edfe451d/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> cate </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> tags </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>声乐存档</title>
       <link href="/posts/ef474505/"/>
       <url>/posts/ef474505/</url>
@@ -58,19 +33,21 @@
       <link href="/posts/56569121/"/>
       <url>/posts/56569121/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>视唱练耳资料存档。  </p><span id="more"></span>  <!--toc-->  <p>##一、练习题##</p><p><img src="/posts/56569121/1.png" alt="1"></p><p><img src="/posts/56569121/2.png" alt="2"></p><p><img src="/posts/56569121/3.png" alt="3"></p>]]></content>
       
       
       <categories>
           
-          <category> cate </category>
+          <category> Backup </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> tags </tag>
+            <tag> Academic Skills </tag>
+            
+            <tag> Study Notes </tag>
             
         </tags>
       
@@ -147,11 +124,11 @@
       
         <tags>
             
-            <tag> Habits </tag>
-            
             <tag> Academic Skills </tag>
             
             <tag> Study Notes </tag>
+            
+            <tag> Habits </tag>
             
         </tags>
       
@@ -280,9 +257,9 @@
       
         <tags>
             
-            <tag> Tools </tag>
-            
             <tag> Academic Skills </tag>
+            
+            <tag> Tools </tag>
             
         </tags>
       

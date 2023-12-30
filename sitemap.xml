@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wingsocool.github.io/posts/ef474505/</loc>
-    
-    <lastmod>2023-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/posts/56569121/</loc>
     
     <lastmod>2023-12-30</lastmod>
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/posts/edfe451d/</loc>
+    <loc>https://wingsocool.github.io/posts/ef474505/</loc>
     
     <lastmod>2023-12-30</lastmod>
     
@@ -207,6 +198,20 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Study-Notes/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/tags/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,13 +240,6 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Habits/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,14 +254,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Study-Notes/</loc>
+    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,6 +264,13 @@
   
   <url>
     <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/categories/Backup/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
