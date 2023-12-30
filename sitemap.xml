@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wingsocool.github.io/posts/ef474505/</loc>
+    
+    <lastmod>2023-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/posts/6404979/</loc>
+    
+    <lastmod>2023-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/posts/edfe451d/</loc>
     
     <lastmod>2023-12-30</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/posts/826a0a2f/</loc>
-    
-    <lastmod>2023-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/posts/ef474505/</loc>
     
     <lastmod>2023-12-30</lastmod>
     
@@ -209,20 +218,6 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/tags/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -244,6 +239,13 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Markdown/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Hexo/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,14 +253,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Markdown/</loc>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -278,21 +273,14 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/cate/</loc>
-    <lastmod>2023-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://wingsocool.github.io/categories/Backup/</loc>
@@ -303,6 +291,13 @@
   
   <url>
     <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <lastmod>2023-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2023-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
