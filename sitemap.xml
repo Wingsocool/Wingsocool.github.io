@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wingsocool.github.io/posts/93d1deba/</loc>
-    
-    <lastmod>2023-08-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/posts/860e9245/</loc>
     
     <lastmod>2023-08-14</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/about/index.html</loc>
+    <loc>https://wingsocool.github.io/posts/96a119d7/</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/posts/96a119d7/</loc>
+    <loc>https://wingsocool.github.io/about/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -157,7 +148,7 @@
 
   <url>
     <loc>https://wingsocool.github.io/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,63 +156,63 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Hexo/</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Markdown/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Habits/</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Life/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Life/</loc>
+    <lastmod>2024-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Habits/</loc>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/tags/Study-Notes/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -230,21 +221,21 @@
   
   <url>
     <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
