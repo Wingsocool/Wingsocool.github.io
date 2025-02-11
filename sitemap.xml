@@ -173,14 +173,7 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Works/</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/SciFi/</loc>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -201,21 +194,35 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Works/</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/SciFi/</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -236,13 +243,6 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Academic-Skills/</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Study-Notes/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,7 +252,7 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
+    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,7 +266,14 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
+    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -274,13 +281,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/categories/Something-Interesting/Asclepius-Curse/</loc>
-    <lastmod>2025-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
     <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
