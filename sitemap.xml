@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wingsocool.github.io/posts/860e9245/</loc>
+    
+    <lastmod>2025-02-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/posts/374b8a11/</loc>
     
     <lastmod>2025-02-12</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://wingsocool.github.io/posts/c40850cb/</loc>
     
     <lastmod>2025-02-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/posts/860e9245/</loc>
-    
-    <lastmod>2023-08-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -180,21 +180,14 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Works/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/SciFi/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,7 +201,14 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Hexo/</loc>
+    <loc>https://wingsocool.github.io/tags/Works/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/SciFi/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -259,14 +259,14 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
+    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
