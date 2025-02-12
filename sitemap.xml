@@ -173,6 +173,13 @@
 
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -194,6 +201,13 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/tags/Works/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -202,20 +216,6 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/SciFi/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/tags/Meaningless/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -252,20 +252,6 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -273,7 +259,21 @@
   </url>
   
   <url>
+    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wingsocool.github.io/categories/Daily-Life/</loc>
+    <lastmod>2025-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/categories/Something-Interesting/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
