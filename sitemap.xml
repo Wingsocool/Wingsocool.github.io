@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wingsocool.github.io/archive/index.html</loc>
+    <loc>https://wingsocool.github.io/posts/374b8a11/</loc>
     
     <lastmod>2025-02-13</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/posts/374b8a11/</loc>
+    <loc>https://wingsocool.github.io/posts/c40850cb/</loc>
+    
+    <lastmod>2025-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/archive/index.html</loc>
     
     <lastmod>2025-02-13</lastmod>
     
@@ -23,15 +32,6 @@
     <loc>https://wingsocool.github.io/posts/860e9245/</loc>
     
     <lastmod>2025-02-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wingsocool.github.io/posts/c40850cb/</loc>
-    
-    <lastmod>2025-02-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -217,14 +217,14 @@
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Habits/</loc>
+    <loc>https://wingsocool.github.io/tags/Life/</loc>
     <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Life/</loc>
+    <loc>https://wingsocool.github.io/tags/Habits/</loc>
     <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
