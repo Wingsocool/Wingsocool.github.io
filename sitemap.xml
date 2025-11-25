@@ -209,13 +209,6 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wingsocool.github.io/tags/Tools/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,6 +224,13 @@
   
   <url>
     <loc>https://wingsocool.github.io/tags/Markdown/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wingsocool.github.io/tags/Ravings/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -288,14 +288,14 @@
 
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
+    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wingsocool.github.io/categories/Help-Docs/</loc>
+    <loc>https://wingsocool.github.io/categories/Fragments-of-Thoughts/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
