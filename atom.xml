@@ -6,7 +6,7 @@
   <link href="https://wingsocool.github.io/atom.xml" rel="self"/>
   
   <link href="https://wingsocool.github.io/"/>
-  <updated>2025-11-25T22:50:59.789Z</updated>
+  <updated>2025-11-26T02:26:50.575Z</updated>
   <id>https://wingsocool.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testfile</title>
+    <link href="https://wingsocool.github.io/posts/b889f32d/"/>
+    <id>https://wingsocool.github.io/posts/b889f32d/</id>
+    <published>2025-11-26T02:34:15.000Z</published>
+    <updated>2025-11-26T02:26:50.575Z</updated>
+    
+    <content type="html"><![CDATA[<p>尝试一下私有库推送是否正常。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;尝试一下私有库推送是否正常。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Help Docs" scheme="https://wingsocool.github.io/categories/Help-Docs/"/>
+    
+    
+    <category term="Hexo" scheme="https://wingsocool.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>十一月总结</title>
