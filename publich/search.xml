@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>testfile</title>
-      <link href="/posts/b889f32d/"/>
-      <url>/posts/b889f32d/</url>
-      
-        <content type="html"><![CDATA[<p>尝试一下私有库推送是否正常。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Help Docs </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>十一月总结</title>
       <link href="/posts/1aaeca3b/"/>
       <url>/posts/1aaeca3b/</url>
