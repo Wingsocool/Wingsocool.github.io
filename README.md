@@ -1,18 +1,19 @@
-# My Tools Hub
+# 128116 Tools Hub
 
-## 📌 Introduction
-A central hub for my self-built tools and utilities.  
-Quick access and redirection to various apps and resources.
+This repository hosts the homepage for [128116.xyz](https://128116.xyz/).
 
-## 🚀 Features
-- Organized navigation to multiple projects
-- Easy redirection via custom domain
-- Simple and lightweight design
+It acts as a lightweight navigation hub for self-built web tools.
 
-## 🔗 Tools Included
-- Vocabulary learning app
-- Postcard maker app
-- Other utilities (to be added)
+## Tools
 
-## 📜 License
-This project is licensed under the Apache 2.0 License.
+- [COCA 5000 高频词学习器](https://128116.xyz/vocab-trainer/)
+- [Postcard Maker](https://128116.xyz/postcard-maker/)
+
+## Deployment
+
+This site is served through GitHub Pages from the `wingsocool.github.io` repository.
+
+Custom domain:
+
+```text
+128116.xyz
