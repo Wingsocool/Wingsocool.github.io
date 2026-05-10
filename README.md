@@ -8,6 +8,7 @@ It acts as a lightweight navigation hub for self-built web tools.
 
 - [COCA 5000 高频词学习器](https://128116.xyz/vocab-trainer/)
 - [Postcard Maker](https://128116.xyz/postcard-maker/)
+- [Serbia Lotto](https://128116.xyz/serbia-lotto/)
 
 ## Deployment
 
